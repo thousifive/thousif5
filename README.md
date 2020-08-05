@@ -1,4 +1,4 @@
-### Hi there, I'm Thousif [website] 👋
+## Hi there, I'm Thousif [website] 👋
 
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
 - 🔭 I’m currently working on a React Projects
@@ -32,7 +32,7 @@
 <br />
 <br />
 
-## Github Statistics
+### Github Statistics
 
 <img align="left" alt="thousif5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thousif5&show_icons=true&hide_border=true" />
 
