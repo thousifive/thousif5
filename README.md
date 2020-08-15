@@ -32,6 +32,9 @@
 <br />
 <br />
 
+### Deployed Projects
+- [Face Detector App]
+
 ### Github Statistics
 
 <img align="left" alt="thousif5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thousif5&show_icons=true&hide_border=true" />
@@ -51,3 +54,4 @@
 [mongodb]: https://www.mongodb.com
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
 [git]: https://git-scm.com
+[Face Detector App]: https://amazing-kilby-c8a990.netlify.app/
