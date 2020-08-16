@@ -34,6 +34,7 @@
 
 ### Deployed Projects
 - [Face Detector App]
+- [Speech Recognition Browser Assistant]
 
 ### Github Statistics
 
@@ -55,3 +56,4 @@
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp
 [git]: https://git-scm.com
 [Face Detector App]: https://amazing-kilby-c8a990.netlify.app/
+[Speech Recognition Browser Assistant]: https://jolly-panini-f50b87.netlify.app/
