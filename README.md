@@ -1,4 +1,4 @@
-## Hi there, I'm Thousif [website] 👋
+## Hi there, I'm Thousif 👋
 
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
 - 🔭 I’m currently working on a React Projects
