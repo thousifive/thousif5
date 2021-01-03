@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
 - 🔭 I’m currently working on a React Projects
 - 🌱 I’m currently learning Software Engineering 
-- 🥅 2020 Goals: Execute some of my ideas
+- 🥅 2021 Goals: Execute some of my ideas
 - ⚡ I love to play eSports and Football
 
 ### Connect with me:
