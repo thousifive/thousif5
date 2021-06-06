@@ -36,6 +36,7 @@
 ### Deployed Projects
 - [Face Detector App]
 - [Speech Recognition Browser Assistant]
+- [Password Generator]
 
 ### Github Statistics
 
@@ -59,3 +60,4 @@
 [git]: https://git-scm.com
 [Face Detector App]: https://amazing-kilby-c8a990.netlify.app/
 [Speech Recognition Browser Assistant]: https://jolly-panini-f50b87.netlify.app/
+[Password Generator]: https://naughty-archimedes-88f2ae.netlify.app/
