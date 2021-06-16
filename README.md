@@ -1,14 +1,14 @@
 ## Hi there, I'm Thousif 👋
 
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
-- 🔭 I’m currently working on a React Projects
-- 🌱 I’m currently learning Software Engineering 
-- 🥅 2021 Goals: Execute some of my ideas
-- ⚡ I love to play eSports and Football
+- 🔭 I’m currently building some on React applications for fun,
+- 🌱 I’m currently learning Software Engineering, 
+- 🥅 2021 Goals: Execute some of my ideas, 
+- ⚡ I play tennis, football, bunch PC games.
 
 ### Connect with me:
 
-[<img align="left" alt="thousif5.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!---[<img align="left" alt="thousif5.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="thousif5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="thousif5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thousif5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
