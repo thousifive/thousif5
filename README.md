@@ -4,7 +4,7 @@
 - 🔭 I’m currently building some on React applications for fun,
 - 🌱 I’m currently learning Software Engineering, 
 - 🥅 2021 Goals: Execute some of my ideas, 
-- ⚡ I play tennis, football, bunch PC games.
+- ⚡ I read books, I play tennis, football, bunch of PC games.
 
 ### Connect with me:
 
