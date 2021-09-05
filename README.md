@@ -37,6 +37,8 @@
 - [Face Detector App]
 - [Speech Recognition Browser Assistant]
 - [Password Generator]
+- [Share Post]
+- [Store eCom]
 
 ### Github Statistics
 
@@ -61,3 +63,5 @@
 [Face Detector App]: https://amazing-kilby-c8a990.netlify.app/
 [Speech Recognition Browser Assistant]: https://jolly-panini-f50b87.netlify.app/
 [Password Generator]: https://naughty-archimedes-88f2ae.netlify.app/
+[Share Post]: https://jovial-perlman-4d678a.netlify.app/
+[Store eCom]: https://relaxed-euclid-072f70.netlify.app/
