@@ -39,6 +39,7 @@
 - [Password Generator]
 - [Share Post]
 - [Store eCom]
+- [Week View]
 
 ### Github Statistics
 
@@ -65,3 +66,4 @@
 [Password Generator]: https://naughty-archimedes-88f2ae.netlify.app/
 [Share Post]: https://jovial-perlman-4d678a.netlify.app/
 [Store eCom]: https://relaxed-euclid-072f70.netlify.app/
+[Week View]: https://hopeful-joliot-32adbb.netlify.app/
