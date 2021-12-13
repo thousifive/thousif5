@@ -9,9 +9,9 @@
 ### Connect with me:
 
 <!---[<img align="left" alt="thousif5.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="thousif5 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thousif5 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thousif5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="thousifive | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="thousifive | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="thousifive | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,8 +46,8 @@
 <img align="left" alt="thousif5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thousif5&show_icons=true&hide_border=true" />
 
 [website]: https://thousif5.github.io
-[twitter]: https://twitter.com/tthousif5
-[instagram]: https://instagram.com/thousif5
+[twitter]: https://twitter.com/thousifive
+[instagram]: https://instagram.com/thousifive
 [linkedin]: https://linkedin.com/in/thousif5
 [vscode]: https://code.visualstudio.com
 [html5]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
