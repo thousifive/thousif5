@@ -43,7 +43,7 @@
 
 ### Github Statistics
 
-<img align="left" alt="thousif5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thousif5&show_icons=true&hide_border=true" />
+<img align="left" alt="thousif5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thousifive&show_icons=true&hide_border=true" />
 
 [website]: https://thousif5.github.io
 [twitter]: https://twitter.com/thousifive
