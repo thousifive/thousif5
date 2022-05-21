@@ -38,10 +38,11 @@
 - [Speech Recognition Browser Assistant]
 - [Password Generator]
 - [Share Post]
-- [Store eCom]
+<!-- - [Store eCom] -->
 - [Week View]
 - [Next Todo]
 - [Onboarding Form]
+- [FakeStore]
 
 ### Github Statistics
 
@@ -71,3 +72,4 @@
 [Week View]: https://hopeful-joliot-32adbb.netlify.app/
 [Next Todo]: https://stately-meerkat-296544.netlify.app/
 [Onboarding Form]: https://hungry-haibt-82d357.netlify.app/
+[FakeStore]: https://loquacious-cactus-c61f4e.netlify.app/
