@@ -38,7 +38,7 @@
 - [Speech Recognition Browser Assistant]
 - [Password Generator]
 - [Share Post]
-<!-- - [Store eCom] -->
+- [Store eCom]
 - [Week View]
 - [Next Todo]
 - [Onboarding Form]
