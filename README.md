@@ -42,7 +42,7 @@
 - [Next Todo]
 - [Onboarding Form]
 - [FakeStore]
-- [Dashboard]
+- [Responsive Dashboard]
 
 ### Github Statistics
 
@@ -73,4 +73,4 @@
 [Next Todo]: https://stately-meerkat-296544.netlify.app/
 [Onboarding Form]: https://hungry-haibt-82d357.netlify.app/
 [FakeStore]: https://loquacious-cactus-c61f4e.netlify.app/
-[Dashboard]: https://peppy-custard-7c59ca.netlify.app/
+[Responsive Dashboard]: https://peppy-custard-7c59ca.netlify.app/
