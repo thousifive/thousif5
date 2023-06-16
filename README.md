@@ -44,6 +44,7 @@
 - [FakeStore]
 - [Responsive Dashboard]
 - [SpaceX Launches]
+- [Calendar (Without any library)]
 
 ### Github Statistics
 
@@ -76,3 +77,4 @@
 [FakeStore]: https://loquacious-cactus-c61f4e.netlify.app/
 [Responsive Dashboard]: https://peppy-custard-7c59ca.netlify.app/
 [SpaceX Launches]: https://main--extraordinary-starship-f7f12d.netlify.app/
+[Calendar (Without any library)]: https://regal-sunflower-5f0a27.netlify.app/
