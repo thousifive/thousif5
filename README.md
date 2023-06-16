@@ -43,6 +43,7 @@
 - [Onboarding Form]
 - [FakeStore]
 - [Responsive Dashboard]
+- [SpaceX Launches]
 
 ### Github Statistics
 
@@ -74,3 +75,4 @@
 [Onboarding Form]: https://hungry-haibt-82d357.netlify.app/
 [FakeStore]: https://loquacious-cactus-c61f4e.netlify.app/
 [Responsive Dashboard]: https://peppy-custard-7c59ca.netlify.app/
+[SpaceX Launches]: https://main--extraordinary-starship-f7f12d.netlify.app/
