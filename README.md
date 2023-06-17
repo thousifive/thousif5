@@ -3,7 +3,7 @@
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
 - 🔭 I’m currently building some on React applications for fun,
 - 🌱 I’m currently learning Software Engineering, 
-- 🥅 2021 Goals: Execute some of my ideas, 
+- 🥅 2023 Goals: Execute some of my ideas, 
 - ⚡ I read books, I play tennis, football, bunch of PC games.
 
 ### Connect with me:
@@ -11,7 +11,6 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/thousifive)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thousif5)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/thousifive)
-
 <br />
 
 ### Languages and Tools:
