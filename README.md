@@ -8,10 +8,9 @@
 
 ### Connect with me:
 
-<!---[<img align="left" alt="thousif5.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="thousifive | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="thousifive | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="thousifive | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/thousifive)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thousif5)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/thousifive)
 
 <br />
 
@@ -45,6 +44,7 @@
 - [Responsive Dashboard]
 - [SpaceX Launches]
 - [Calendar (Without any library)]
+- [Betting Game]
 
 ### Github Statistics
 
@@ -78,3 +78,4 @@
 [Responsive Dashboard]: https://peppy-custard-7c59ca.netlify.app/
 [SpaceX Launches]: https://main--extraordinary-starship-f7f12d.netlify.app/
 [Calendar (Without any library)]: https://regal-sunflower-5f0a27.netlify.app/
+[Betting Game]: https://jolly-panda-6c1188.netlify.app/
