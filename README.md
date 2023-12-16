@@ -1,8 +1,8 @@
 ## Hi there, I'm Thousif 👋
 
 ## I'm a Software Engineer, Creator, Sports Enthusiast, Techie and a Weeb!
-- 🔭 I’m currently building some React applications for fun,
-- 🌱 I’m currently learning Software Engineering, 
+- 🔭 I’m currently building Internet Products,
+- 🌱 Currently working as a Lead Engineer, 
 - 🥅 2023 Goals: Execute some of my ideas, 
 - ⚡ I read books, I play tennis, football, bunch of PC games.
 
